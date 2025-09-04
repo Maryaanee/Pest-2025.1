@@ -1,0 +1,8 @@
+2 escreva um codigo em python imprimir 1 a 15 (inclusive) pulando 5,8 e 12
+
+3 imprima a soma dos numeros pares do 0 ate um numero inteiro dado pelo usuario, for para percorrer e realizar a soma
+
+4 for para percorrer de 0 ate n (inclusive) numeros e calcule a media aritmetica desses valores
+
+5 verifique se o numero é primo ou nao usando for
+
