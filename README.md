@@ -17,8 +17,7 @@ Aqui organizo todos os códigos desenvolvidos na disciplina de **Programação E
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 ---
 
-## 👩‍🏫 Professor
-**Thomaz** 
+## 👩‍🏫 Professor: **Thomaz** 
 ---
 
 
